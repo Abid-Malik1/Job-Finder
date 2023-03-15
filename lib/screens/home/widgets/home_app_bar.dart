@@ -64,7 +64,7 @@ class HomeAppBar extends StatelessWidget {
                 SizedBox(width: 30),
                 ClipOval(
                   child: Image.asset(
-                    'assets/images/avatar.png',
+                    'assets/images/abidmalik.jpg',
                     width: 40,
                   ),
                 )

@@ -8,9 +8,7 @@ A new Flutter project.
 
 
 <img align="left" width="300" height="600" src="https://raw.githubusercontent.com/Abid-Malik1/Job-Finder/main/screenshots/Screenshot_20230315-222145.png">
-
 <img align="left" width="300" height="600" src="https://raw.githubusercontent.com/Abid-Malik1/Job-Finder/main/screenshots/Screenshot_20230315-222204.png">
-
-<br><br><br> <img align="left" width="300" height="600" src="https://raw.githubusercontent.com/Abid-Malik1/Job-Finder/main/screenshots/Screenshot_20230315-222220.png">
+<img align="left" width="300" height="600" src="https://raw.githubusercontent.com/Abid-Malik1/Job-Finder/main/screenshots/Screenshot_20230315-222220.png">
 
 
